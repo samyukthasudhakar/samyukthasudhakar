@@ -31,7 +31,7 @@
 
 #
 
-### Github Stats
+### 📈 Github Stats
 <img src="https://komarev.com/ghpvc/?username=samyukthasudhakar"/>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthasudhakar&theme=tokyonight)
