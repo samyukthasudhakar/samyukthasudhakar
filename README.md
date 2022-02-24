@@ -20,7 +20,6 @@
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://cdn.cdnlogo.com/logos/a/33/amazon-web-services.svg" width="50" height="50" />
 <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50" />
 </p>
 
 #
