@@ -2,8 +2,6 @@
 <h3 align="center"></h3>
 
 ### 👩🏽‍💻 About Me
-🚀 Currently working as a Frontend Engineer at [rocketlane](https://www.rocketlane.com/)  
-🌱 Learning full stack development @ [neoG'22](https://neog.camp/about)  
 👯 Looking out for opportunities to collaborate in web dev and python projects  
 ⚡ Fun fact : Love hanging out in open doors catching sunrise, sunsets and all things to do with sky 🌆  
 📸 Amateur photographer  
